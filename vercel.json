@@ -1,4 +1,4 @@
-{
+ {
   "functions": {
     "api/proxy.js": {
       "runtime": "@vercel/node"
